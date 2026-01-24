@@ -6,17 +6,17 @@
     "slug": "rsos",
     "status": "up",
     "uptime": "91.40%",
-    "uptimeDay": "69.62%",
-    "uptimeWeek": "81.10%",
-    "uptimeMonth": "23.29%",
-    "uptimeYear": "65.79%",
+    "uptimeDay": "70.04%",
+    "uptimeWeek": "81.16%",
+    "uptimeMonth": "23.41%",
+    "uptimeYear": "65.77%",
     "time": 1011,
     "timeDay": 462,
     "timeWeek": 528,
     "timeMonth": 1081,
     "timeYear": 1027,
     "dailyMinutesDown": {
-      "2026-01-23": 437,
+      "2026-01-23": 431,
       "2026-01-22": 74,
       "2026-01-21": 295,
       "2026-01-20": 76,
@@ -156,7 +156,8 @@
       "2025-09-05": 784,
       "2025-08-17": 60,
       "2025-08-13": 22,
-      "2025-08-09": 32
+      "2025-08-09": 32,
+      "2025-08-07": 126
     }
   },
   {
@@ -165,7 +166,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$hk_server.ico",
     "slug": "hk",
     "status": "up",
-    "uptime": "64.83%",
+    "uptime": "64.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "79.90%",
