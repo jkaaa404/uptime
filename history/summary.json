@@ -6,17 +6,17 @@
     "slug": "rsos",
     "status": "up",
     "uptime": "98.95%",
-    "uptimeDay": "61.29%",
-    "uptimeWeek": "58.29%",
-    "uptimeMonth": "48.38%",
-    "uptimeYear": "95.70%",
+    "uptimeDay": "60.17%",
+    "uptimeWeek": "57.87%",
+    "uptimeMonth": "48.33%",
+    "uptimeYear": "95.69%",
     "time": 1073,
-    "timeDay": 524,
-    "timeWeek": 476,
-    "timeMonth": 479,
+    "timeDay": 522,
+    "timeWeek": 474,
+    "timeMonth": 478,
     "timeYear": 1093,
     "dailyMinutesDown": {
-      "2026-03-11": 294,
+      "2026-03-11": 336,
       "2026-03-10": 687,
       "2026-03-09": 804,
       "2026-03-08": 555,
@@ -40,7 +40,7 @@
       "2026-02-18": 298,
       "2026-02-17": 1122,
       "2026-02-16": 884,
-      "2026-02-15": 197
+      "2026-02-15": 175
     }
   },
   {
