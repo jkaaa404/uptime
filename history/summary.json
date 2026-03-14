@@ -4,14 +4,14 @@
     "url": "https://$US_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/$us_site.ico",
     "slug": "rsos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
     "uptimeDay": "37.75%",
-    "uptimeWeek": "55.49%",
-    "uptimeMonth": "53.57%",
-    "uptimeYear": "96.13%",
+    "uptimeWeek": "55.60%",
+    "uptimeMonth": "53.71%",
+    "uptimeYear": "96.14%",
     "time": 1082,
-    "timeDay": 471,
+    "timeDay": 463,
     "timeWeek": 484,
     "timeMonth": 482,
     "timeYear": 1097,
@@ -37,8 +37,7 @@
       "2026-02-24": 1440,
       "2026-02-23": 373,
       "2026-02-22": 1197,
-      "2026-02-21": 472,
-      "2026-02-20": 60
+      "2026-02-21": 472
     }
   },
   {
