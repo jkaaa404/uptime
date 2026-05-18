@@ -4,19 +4,20 @@
     "url": "https://$US_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/$us_site.ico",
     "slug": "rsos",
-    "status": "down",
+    "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "19.24%",
+    "uptimeDay": "18.98%",
     "uptimeWeek": "61.49%",
-    "uptimeMonth": "51.15%",
+    "uptimeMonth": "51.14%",
     "uptimeYear": "95.05%",
     "time": 1321,
-    "timeDay": 333,
-    "timeWeek": 325,
-    "timeMonth": 907,
+    "timeDay": 335,
+    "timeWeek": 337,
+    "timeMonth": 905,
     "timeYear": 1361,
     "dailyMinutesDown": {
-      "2026-05-17": 1162,
+      "2026-05-18": 2,
+      "2026-05-17": 1164,
       "2026-05-16": 250,
       "2026-05-15": 435,
       "2026-05-14": 303,
@@ -51,7 +52,7 @@
       "2026-04-14": 801,
       "2026-04-13": 729,
       "2026-04-12": 928,
-      "2026-04-11": 524
+      "2026-04-11": 499
     }
   },
   {
@@ -66,10 +67,10 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "96.53%",
     "time": 635,
-    "timeDay": 395,
-    "timeWeek": 475,
-    "timeMonth": 456,
-    "timeYear": 615,
+    "timeDay": 660,
+    "timeWeek": 508,
+    "timeMonth": 462,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2026-04-19": 51,
       "2026-04-18": 42,
@@ -111,10 +112,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 255,
-    "timeDay": 54,
-    "timeWeek": 188,
+    "timeDay": 158,
+    "timeWeek": 153,
     "timeMonth": 148,
-    "timeYear": 271,
+    "timeYear": 270,
     "dailyMinutesDown": {
       "2025-07-25": 10
     }
