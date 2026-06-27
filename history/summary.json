@@ -6,8 +6,8 @@
     "slug": "rsos",
     "status": "down",
     "uptime": "98.36%",
-    "uptimeDay": "57.70%",
-    "uptimeWeek": "79.81%",
+    "uptimeDay": "57.67%",
+    "uptimeWeek": "79.80%",
     "uptimeMonth": "70.33%",
     "uptimeYear": "92.77%",
     "time": 1527,
@@ -69,7 +69,7 @@
       "2026-06-24": 68,
       "2026-06-25": 151,
       "2026-06-26": 596,
-      "2026-06-27": 14
+      "2026-06-27": 15
     }
   },
   {
@@ -79,7 +79,7 @@
     "slug": "hk",
     "status": "up",
     "uptime": "68.16%",
-    "uptimeDay": "87.92%",
+    "uptimeDay": "87.95%",
     "uptimeWeek": "95.05%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "96.43%",
