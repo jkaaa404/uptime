@@ -7,8 +7,8 @@
     "status": "up",
     "uptime": "98.06%",
     "uptimeDay": "45.55%",
-    "uptimeWeek": "36.35%",
-    "uptimeMonth": "49.02%",
+    "uptimeWeek": "36.36%",
+    "uptimeMonth": "49.03%",
     "uptimeYear": "90.89%",
     "time": 1247,
     "timeDay": 697,
@@ -80,7 +80,7 @@
     "slug": "hk",
     "status": "down",
     "uptime": "70.18%",
-    "uptimeDay": "90.27%",
+    "uptimeDay": "90.24%",
     "uptimeWeek": "98.61%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "96.72%",
@@ -113,7 +113,7 @@
       "2026-04-19": 51,
       "2026-06-26": 282,
       "2026-06-25": 217,
-      "2026-10-14": 137,
+      "2026-10-14": 138,
       "2026-10-13": 3
     }
   },
