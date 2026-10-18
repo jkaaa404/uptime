@@ -6,17 +6,17 @@
     "slug": "rsos",
     "status": "down",
     "uptime": "98.02%",
-    "uptimeDay": "72.31%",
+    "uptimeDay": "62.82%",
     "uptimeWeek": "59.19%",
     "uptimeMonth": "57.48%",
-    "uptimeYear": "90.70%",
-    "time": 1230,
-    "timeDay": 198,
-    "timeWeek": 450,
-    "timeMonth": 1018,
-    "timeYear": 1056,
+    "uptimeYear": "90.67%",
+    "time": 1228,
+    "timeDay": 218,
+    "timeWeek": 436,
+    "timeMonth": 693,
+    "timeYear": 1047,
     "dailyMinutesDown": {
-      "2026-08-18": 250,
+      "2026-08-18": 224,
       "2026-08-19": 547,
       "2026-08-20": 742,
       "2026-08-21": 590,
@@ -72,7 +72,8 @@
       "2026-10-14": 422,
       "2026-10-15": 605,
       "2026-10-16": 549,
-      "2026-10-17": 399
+      "2026-10-17": 477,
+      "2026-10-18": 95
     }
   },
   {
@@ -86,11 +87,11 @@
     "uptimeWeek": "68.41%",
     "uptimeMonth": "92.73%",
     "uptimeYear": "96.14%",
-    "time": 558,
-    "timeDay": 414,
-    "timeWeek": 415,
-    "timeMonth": 443,
-    "timeYear": 546,
+    "time": 557,
+    "timeDay": 359,
+    "timeWeek": 406,
+    "timeMonth": 441,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2025-10-24": 289,
       "2025-10-25": 696,
@@ -133,10 +134,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 1171,
-    "timeWeek": 277,
-    "timeMonth": 189,
-    "timeYear": 221,
+    "timeDay": 107,
+    "timeWeek": 256,
+    "timeMonth": 187,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   }
 ]
