@@ -6,15 +6,15 @@
     "slug": "rsos",
     "status": "down",
     "uptime": "97.61%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "53.36%",
-    "uptimeMonth": "48.89%",
-    "uptimeYear": "88.64%",
+    "uptimeDay": "89.78%",
+    "uptimeWeek": "52.57%",
+    "uptimeMonth": "48.55%",
+    "uptimeYear": "88.61%",
     "time": 1207,
-    "timeDay": 291,
-    "timeWeek": 348,
-    "timeMonth": 637,
-    "timeYear": 954,
+    "timeDay": 214,
+    "timeWeek": 329,
+    "timeMonth": 633,
+    "timeYear": 953,
     "dailyMinutesDown": {
       "2026-08-20": 477,
       "2026-08-21": 590,
@@ -87,7 +87,7 @@
       "2026-10-31": 568,
       "2026-11-01": 652,
       "2026-11-02": 643,
-      "2026-11-04": 0
+      "2026-11-04": 147
     }
   },
   {
@@ -101,9 +101,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.73%",
     "uptimeYear": "96.33%",
-    "time": 549,
-    "timeDay": 328,
-    "timeWeek": 420,
+    "time": 548,
+    "timeDay": 373,
+    "timeWeek": 419,
     "timeMonth": 406,
     "timeYear": 538,
     "dailyMinutesDown": {
@@ -145,9 +145,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 64,
-    "timeWeek": 146,
+    "time": 231,
+    "timeDay": 114,
+    "timeWeek": 147,
     "timeMonth": 167,
     "timeYear": 213,
     "dailyMinutesDown": {}
